@@ -12,13 +12,13 @@ export default function Routes(){
 
     return (
         <NavigationContainer>
-            <Navigator screenOptions={{ headerShown: false, cardStyle: {backgroundColor: '#7ab440'}}}>
+            <Navigator screenOptions={{ headerShown: false, }}>
                 <Screen
                     name="Landing"
                     component={Landing}
                 />
                 <Screen
-                    name="Personangens"
+                    name="Personagens"
                     component={Personagens}
                 />
             </Navigator>

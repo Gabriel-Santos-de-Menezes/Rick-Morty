@@ -16,6 +16,7 @@ const styles  = StyleSheet.create({
         alignItems: 'center',
         paddingBottom: 10,
         paddingTop: 10,
+        
     },
 
     title: {
