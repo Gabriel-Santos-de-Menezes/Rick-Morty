@@ -3,8 +3,8 @@ import React from 'react'
 import { NavigationContainer} from '@react-navigation/native'
 import { createStackNavigator } from '@react-navigation/stack'
 
-import Landing from './pages/Landing'
-import Personagens from './pages/Personagens'
+import Landing from './pages/Landing/Landing'
+import Personagens from './pages/Personagens/Personagens'
 
 export default function Routes(){
 

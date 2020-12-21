@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import Route from './src/routes'
 
 import Header from './src/components/Header'
-import Landing from './src/pages/Landing'
+import Landing from './src/pages/Landing/Landing'
 
 export default function App() {
   return (
